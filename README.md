@@ -1,1 +1,1 @@
-# max-25.02
+Repositório utilizado para a documentação do projeto teste
